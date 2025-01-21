@@ -9,7 +9,7 @@ Dólar (USD) a Peso Argentino (ARS), Real Brasileño (BRL), y Peso Colombiano (C
 Dólar (USD) a otra moneda y viceversa.
 
 Requisitos Previos
-Java 11+ Asegúrate de tener instalado Java 11 o una versión superior.
+Java Asegúrate de tener instalado Java en tu equipo.
 Librería Gson Incluye la librería Gson en tu proyecto para el manejo de JSON.
 
 Estructura del Proyecto
